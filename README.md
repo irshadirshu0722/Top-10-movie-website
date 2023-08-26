@@ -7,7 +7,15 @@ Welcome to MovieFlix, a dynamic and interactive web application that empowers yo
 
 This website allows users to keep track of movies they have watched, as well as add ratings and reviews. When the cursor hovers over a movie poster, the poster flips to reveal the movie’s rating, title, year, description, and review. Users can also delete or update movies from their watchlist.
 
+
+
+WORKING VIDEO:![video](https://github.com/irshadirshu0722/Top-10-movie-website/assets/141476447/56571d6b-6ca3-458a-8343-81c1afa464c4)
+
+
 Features
+
+
+
 ---------------
 --Add Movies with Ease: Say goodbye to manual data entry! MovieFlix lets you add movies effortlessly. Just enter the movie's title, and our smart system fetches the movie poster, synopsis, and other details from a reliable external API.
 
