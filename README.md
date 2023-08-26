@@ -9,7 +9,11 @@ This website allows users to keep track of movies they have watched, as well as 
 
 
 
-WORKING VIDEO:https://github.com/irshadirshu0722/Top-10-movie-website/assets/141476447/56571d6b-6ca3-458a-8343-81c1afa464c4
+WORKING VIDEO:
+
+https://github.com/irshadirshu0722/Top-10-movie-website/assets/141476447/f4f60a40-7cea-463b-adca-6cdf930b54bd
+
+
 
 
 Features
